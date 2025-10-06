@@ -1,28 +1,55 @@
-# 🌐 Portfolio V1 (HTML, CSS, JS)
+# Ricky Arianto - Portfolio
 
-Website portfolio statis menggunakan **HTML**, **CSS**, dan **JavaScript**, terinspirasi dari situs utama [ricky-arianto.github.io](https://ricky-arianto.github.io/).  
-Proyek ini ditujukan sebagai showcase skill frontend dasar.
+Selamat datang di repository portofolio saya! 🎉  
+Saya Ricky Arianto, seorang **Frontend & Fullstack Developer** dengan minat di **web development, embedded systems, dan AI**.
 
-## 🛠️ Tech Stack
-- HTML5
-- CSS3
-- JavaScript (Vanilla)
-- Formspree (untuk form kontak)
+## 🔹 Tentang Portofolio
+Portofolio ini menampilkan:
 
-## 🚀 Cara Menjalankan
-1. Clone repository ini:
+- **Hero Section**: Foto profil dan tagline profesional.  
+- **About Me**: Perkenalan singkat dan minat di bidang teknologi.  
+- **Skills**: HTML, CSS, JavaScript, PHP, React.js, Embedded Systems, Hardware/Software Troubleshooting.  
+- **Projects**: Menampilkan proyek terbaru dari GitHub secara otomatis.  
+- **Certificates**: Sertifikasi yang sudah saya capai, termasuk Dicoding Basic AI, Continuous Improvement, dan lain-lain.  
+- **Contact**: Email, GitHub, dan LinkedIn.  
+- **Footer Modern**: Icon GitHub & LinkedIn.
+
+## 🔹 Struktur Folder
+portfolio/
+├── index.html
+├── style.css
+├── main.js
+├── profile.jpg
+├── bg.jpg
+├── Certificates/
+│ ├── DicodingAI.pdf
+│ ├── DicodingAIekosistem.pdf
+│ ├── ContinuousImprovement.jpg
+│ ├── InternalQuality.jpg
+│ ├── QualityManagement.jpg
+│ └── English.pdf
+
+markdown
+Copy code
+
+## 🔹 Teknologi yang Digunakan
+- **HTML5 & CSS3** (Custom CSS, responsive)  
+- **JavaScript** (Projects otomatis dari GitHub API)  
+- **Lucide Icons** (Icon GitHub & LinkedIn)  
+- **GitHub Pages** (Deployment online)  
+
+## 🔹 Link Portofolio
+[Klik di sini untuk melihat portofolio](https://ricky-arianto.github.io/)
+
+## 🔹 Cara Menggunakan / Clone
+1. Clone repository:  
    ```bash
-   git clone https://github.com/username/portfolio-v1-html.git
-Buka file index.html di browser.
+   git clone https://github.com/ricky-arianto/portfolio.git
+Buka index.html di browser untuk melihat portofolio lokal.
 
-🌐 Deploy ke GitHub Pages
+🔹 Kontak
+Email: rickyarianto100@gmail.com
 
-Buka tab Settings → Pages
+GitHub: @ricky-arianto
 
-Pilih branch: main dan folder: / (root)
-
-Klik Save, halaman akan tersedia dalam beberapa menit.
-
-📄 Lisensi
-
-MIT License © 2025 Ricky Arianto
+LinkedIn: @ricky-arianto
