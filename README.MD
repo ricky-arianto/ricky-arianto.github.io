@@ -15,6 +15,7 @@ Portofolio ini menampilkan:
 - **Footer Modern**: Icon GitHub & LinkedIn.
 
 ## 🔹 Struktur Folder
+```
 portfolio/
 ├── index.html
 ├── style.css
@@ -53,3 +54,4 @@ Email: rickyarianto100@gmail.com
 GitHub: @ricky-arianto
 
 LinkedIn: @ricky-arianto
+
