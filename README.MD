@@ -29,7 +29,7 @@ portfolio/
 │ ├── InternalQuality.jpg
 │ ├── QualityManagement.jpg
 │ └── English.pdf
-
+```
 markdown
 Copy code
 
@@ -54,4 +54,5 @@ Email: rickyarianto100@gmail.com
 GitHub: @ricky-arianto
 
 LinkedIn: @ricky-arianto
+
 
