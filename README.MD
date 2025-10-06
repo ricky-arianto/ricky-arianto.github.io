@@ -30,8 +30,6 @@ portfolio/
 │ ├── QualityManagement.jpg
 │ └── English.pdf
 ```
-markdown
-Copy code
 
 ## 🔹 Teknologi yang Digunakan
 - **HTML5 & CSS3** (Custom CSS, responsive)  
@@ -54,5 +52,6 @@ Email: rickyarianto100@gmail.com
 GitHub: @ricky-arianto
 
 LinkedIn: @ricky-arianto
+
 
 
